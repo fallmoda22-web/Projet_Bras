@@ -60,7 +60,7 @@ projet_bras/
 │   └── abb_gestes.py        # programme principal
 ├── scripts/                 # tests manuels
 │   ├── test_camera.py       # webcam + MediaPipe
-│   ├── pose_travail.py      # pose de départ du robot
+│      # pose de départ du robot
 │   ├── lire_pose.py         # connexion RoboDK
 │   └── test_mouvement.py    # mouvement de test
 ├── docs/                    # gestes, dépannage
